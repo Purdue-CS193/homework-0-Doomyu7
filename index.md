@@ -4,3 +4,4 @@ Favorite Things about C193
 - The wonderful environment
 - The spectacular slides
 - The interesting homework
+- The word of the day
